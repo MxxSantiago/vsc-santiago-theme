@@ -1,0 +1,30 @@
+{
+    "autor": {
+        "name": "Max Santiago"
+    },
+    "name": "santiago-theme",
+    "publisher": "MaxSantiago",
+    "displayName": "Santiago Theme",
+    "description": "🟪 Cool elegant and clean VSC theme 🟪",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "keywords": [
+        "Santiago Theme"
+    ],
+    "license": "MIT",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Santiago Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Santiago Theme-color-theme.json"
+            }
+        ]
+    },
+    "icon": "./logo.png"
+}
