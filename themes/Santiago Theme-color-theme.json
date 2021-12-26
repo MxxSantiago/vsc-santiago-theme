@@ -1720,6 +1720,12 @@
             "settings": {
                 "foreground": "#ffe9e9"
             }
+        },
+        {
+            "scope": "storage.type",
+            "settings": {
+                "foreground": "#b8d1ff"
+            }
         }
     ],
     "colors": {
